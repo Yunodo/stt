@@ -9,9 +9,9 @@ To be added: Language Model for super beam decoding
 
 ## Implementation
 
-Python
-Pytorch
-TPU Colaboratory
+* Python
+* Pytorch
+* TPU Colaboratory
 
 ## Dataset
 
