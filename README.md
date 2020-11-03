@@ -1,2 +1,2 @@
-# stt
+# STT
 Sequence-to-Text model from audio to transcribed speech
